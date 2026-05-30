@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachepncrypt",
+        "uuid": 1478304,
+        "checksum": "08wak"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
